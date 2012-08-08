@@ -1,18 +1,18 @@
 body {
-    background-color: #D1FFD1;
-    font-family: sans-serif;
+	background-color: #D1FFD1;
+	font-family: sans-serif;
 }
 
 div#content {
 	width: 500px;
-    display: block;
+	display: block;
 	margin: 0 auto;
-    text-align: left;
-    /*left: 50px;*/
+	text-align: left;
+	/*left: 50px;*/
 }
 
 div#title {
-    margin-bottom: 8em;
+	margin-bottom: 8em;
 }
 
 div#explanation {
@@ -20,8 +20,8 @@ div#explanation {
 }
 
 h1 {
-    font-size: 1em;
-    font-weight: bold;
+	font-size: 1em;
+	font-weight: bold;
 }
 
 div#title #tagline {
@@ -41,28 +41,28 @@ input#textinput {
 }
 
 div#pronunciation {
-    margin-top: 1em;
-    font-size: 1.5em;
+	margin-top: 1em;
+	font-size: 1.5em;
 }
 
 div#pronunciation span {
-    /*display: inline-block;*/
-    color: white;
-    margin: 0.1em;
+	/*display: inline-block;*/
+	color: white;
+	margin: 0.1em;
 }
 div#pronunciation .pinyin {
-    background-color: green;
-    padding: 0.1em 0.3em;
+	background-color: green;
+	padding: 0.1em 0.3em;
 }
 div#pronunciation .incomplete {
 	color: black;
-    background-color: #FFFF99;
-    padding: 0.1em 0.3em;
+	background-color: #FFFF99;
+	padding: 0.1em 0.3em;
 }
 div#pronunciation .ignore {
 	color: black;
-    background-color: white;
-    padding: 0.1em 0.1em;
+	background-color: white;
+	padding: 0.1em 0.1em;
 }
 
 div#footer {
