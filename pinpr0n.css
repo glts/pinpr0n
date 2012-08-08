@@ -1,0 +1,71 @@
+body {
+	background-color: #D1FFD1;
+	font-family: sans-serif;
+}
+
+div#content {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+	text-align: left;
+	/*left: 50px;*/
+}
+
+div#title {
+	margin-bottom: 8em;
+}
+
+div#explanation {
+	font-size: 0.8em;
+}
+
+h1 {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+div#title #tagline {
+	font-size: 0.8em;
+}
+
+input.examplebutton {
+	border: none;
+	background-color: inherit;
+	text-decoration: underline;
+}
+
+input#textinput {
+	font-size: 0.8em;
+	padding: 2px;
+	width: 92%;
+}
+
+div#pronunciation {
+	margin-top: 1em;
+	font-size: 1.5em;
+}
+
+div#pronunciation span {
+	/*display: inline-block;*/
+	color: white;
+	margin: 0.1em;
+}
+div#pronunciation .pinyin {
+	background-color: green;
+	padding: 0.1em 0.3em;
+}
+div#pronunciation .incomplete {
+	color: black;
+	background-color: #FFFF99;
+	padding: 0.1em 0.3em;
+}
+div#pronunciation .ignore {
+	color: black;
+	background-color: white;
+	padding: 0.1em 0.1em;
+}
+
+div#footer {
+	font-size: 0.8em;
+	margin-top: 12em;
+}
