@@ -4,11 +4,11 @@ pinpr0n
 Small Javascript web page which converts Pinyin to phonetic alphabet.
 
 This served mostly as an exercise in "ternary search trees" (TST). From an
-existence table of around 400 Pinyin syllables a TST is constructed. Any
-input is then matched against the TST.
+existence table of around 400 Pinyin syllables a TST is constructed. Any input
+is then matched against the TST.
 
 The endnodes in the TST hold strings with the corresponding phonetic
 representation.
 
 
-References: ...
+Reference: Robert Sedgewick. 2003. Algorithms in Java, 3rd edition.
